@@ -9,3 +9,9 @@ body{
 }
 
 /* Estilo de cabeçalho */
+header{
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
