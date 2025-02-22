@@ -1,12 +1,50 @@
-# Projeto - Curriculo web
+# Cadastro de Endereço
 
-Olá, meu nome é Guilherme, nascido em Londrina-PR em 06/09/2005, cursei meu ensino médio no colégio Castaldi aonde fiz curso integrado de Eletrotécnica, nos ultimos dois anos do ensino médio realizei estágio na empresa Copel como projetista elétrico, finalizando o curso procurei uma faculdadade para começar a graduação de Engenharia de Software e fui indicado para trabalhar na ABTEC - Engenharia Elétrica que é uma empresa terceirizada da Copel.
-Atualmente estou cursando Engenharia de Software na UniCesumar e trabalho na ABTEC como projetista elétrico e analista de projetos de rede de média tensão e baixa tensão.
+## Descrição do projeto
 
-# Hard Skills
+Projeto construido para uma vizualização web de seu curriculo feito em HTML5 e CSS3
 
-- Organização
-- Trabalho em equipe
-- Comunicativo
-- Proatividade
-- Pontualidade
+## Cabeçalho - Header 
+
+Criado uma &lt;class&gt; dentro de uma &lt;div&gt; para estilização do cabeçalho da pagina.  
+Nesta &lt;div&gt; contém as informações como nome, e-mail, telefone, linkedin e github.
+
+## Seções - Section
+
+Abaixo foi criado 4 seções &lt;section&gt; contendo:  
+- Sobre mim;  
+- Experiência profissional;  
+- Formações acadêmicas;  
+- Habilidades.
+
+## Rodapé - Footer
+
+E para o rodapé da pagina foi criado um &lt;footer&gt; contendo o simbolo de copyright (&copy;) e direitos autorais.
+
+## Estilização com CSS3
+
+As tags de estilização usadas foram:
+- margin: Altera a margem da pagina;
+- padding: Espaçamento entre o conteudo e a borda;
+- font-family: Altera a fonte da escrita;
+- background-color: Altera a cor de fundo da pagina;
+- color: Altera a cor do texto;
+- text-align: Alinhamento de texto;
+- display:flex: Alteração de organização em blocos;
+- align-items: Alinhamento dos conteudos;
+- justify-content: 
+- flex-direction: 
+- width: Largura da imagem;
+- height: Altura da imagem;
+- border-radius: Arredonda a borda da imagem;
+- border: Inclui borda na imagem;
+- box-shadow: Caixa com sombreamento;
+
+### Linguagens de programação
+
+``HTML5``  
+``CSS3``
+
+# Autores
+
+[<img src="perfil.jpg" width=130><br><sub>Guilherme Henrique Silva</sub>](https://github.com/Guilherme-Henr-Silva)
